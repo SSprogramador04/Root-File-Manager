@@ -19,7 +19,7 @@ A modern, iOS-inspired Root File Manager built with **Jetpack Compose** and **Ma
 > [!IMPORTANT]
 > **Redmi 10 Prime Users:** This app may experience stability issues on the Redmi 10 Prime (Helio G88). Due to Xiaomi's **Super Partition** (Dynamic Partitions) and aggressive MIUI/HyperOS memory management, "Read-Write" (RW) remounting of the `/product` partition may fail.
 
-## tested on:
+## Tested on:
 Tested phisically on Xiaomi REDMI 10 prime and SAMSUNG Galaxy A015M/DS]
 
 ## 🛠️ Tech Stack
