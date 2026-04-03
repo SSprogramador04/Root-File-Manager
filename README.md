@@ -1,4 +1,4 @@
-# 📂 Prime Explorer (Root)
+# 📂 Root File Manager
 
 A modern, iOS-inspired Root File Manager built with **Jetpack Compose** and **Material 3**. Designed for performance and clean aesthetics in 2026.
 
