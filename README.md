@@ -19,13 +19,11 @@ A modern, iOS-inspired Root File Manager built with **Jetpack Compose** and **Ma
 > [!IMPORTANT]
 > **Redmi 10 Prime Users:** This app may experience stability issues on the Redmi 10 Prime (Helio G88). Due to Xiaomi's **Super Partition** (Dynamic Partitions) and aggressive MIUI/HyperOS memory management, "Read-Write" (RW) remounting of the `/product` partition may fail.
 
-[Tested phisically on Xiaomi REDMI 10 prime and SAMSUNG Galaxy A015M/DS]
+## tested on:
+Tested phisically on Xiaomi REDMI 10 prime and SAMSUNG Galaxy A015M/DS]
 
 ## 🛠️ Tech Stack
 * **Language:** Kotlin
 * **UI Framework:** Jetpack Compose (Material 3)
 * **Architecture:** MVVM (ViewModel + StateFlow)
 * **Shell:** RootShell integration for `su` execution.
-
-## 📜 License
-This project is for educational "rookie-to-pro" development purposes. Use at your own risk when modifying system files.
